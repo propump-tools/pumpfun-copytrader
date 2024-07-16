@@ -6,7 +6,7 @@ ProPump - Pump.fun Copytrader <b>Blazingly Fast⚡ Written in GOLANG</b>. <br/>
 [@discord](https://discord.gg/F7PTJuZJgt)
 
 ## Screenshots 💯
-![image](https://github.com/propump-tools/pumpfun-copytrader-sniper/blob/main/screenshot.png)
+![image](https://github.com/propump-tools/pumpfun-copytrader/blob/main/screenshot.png)
 
 ## Features 🌀
 - 🔥 Infinite Tasks
